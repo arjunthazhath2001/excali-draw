@@ -1,0 +1,1 @@
+export const SECRET= "MY_JWT_SECRET"
